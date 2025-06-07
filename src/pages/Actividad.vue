@@ -21,12 +21,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba tus conocimientos sobre fundamentos en tecnología aplicada
-              en sistemas electromecánicos e industriales.
+              Prueba tus conocimientos sobre Fundamentos en tecnología aplicada
+              en sistemas electromecánicos e industriales
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre fundamentos en tecnología
+            Validar el conocimiento adquirido sobre Fundamentos en tecnología
             aplicada en sistemas electromecánicos e industriales. Esto se
             trabaja a partir de un conjunto de preguntas con el propósito de
             buscar una dinámica de razonamiento ágil sobre opciones cerradas y

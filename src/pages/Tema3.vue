@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
-        span 1
+        span 3
       h1 Dibujo Técnico
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
