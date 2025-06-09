@@ -220,8 +220,8 @@
                     <i class="fas fa-check-circle" style="color:#78B62E;"></i
                     ><span
                       ><strong>Indicadores de carátula o comparadores:</strong>
-                      se utilizan para verificar alineaciones y concentricidades
-                      en componentes montados.</span
+                      se emplean para verificar la alineación y la
+                      concentricidad de los componentes ensamblados.</span
                     >
                   </li>
                 </ul>

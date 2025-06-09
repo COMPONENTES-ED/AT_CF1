@@ -52,7 +52,7 @@
               herramientas manuales hasta avanzadas electrónicas, cada una
               desempeña un papel específico en el mantenimiento y optimización
               de sistemas mecánicos. Una herramienta mal seleccionada o
-              utilizada incorrectamente no solo puede comprometer el montaje
+              utilizada incorrectamente no solo puede comprometer el montaje,
               sino también poner en riesgo la seguridad del operador.
             </p>
           </div>
@@ -84,7 +84,7 @@
             <div class="row col-xl-11 m-auto" titulo="Manuales">
               <p>
                 Como llaves, destornilladores y alicates. Estas herramientas son
-                básicas pero esenciales para operaciones que requieren un
+                básicas, pero esenciales para operaciones que requieren un
                 control directo.
               </p>
             </div>

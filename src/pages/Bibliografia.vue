@@ -23,105 +23,107 @@ export default {
     referencias: [
       {
         referencia:
-          'Fernández, R., & García, M. (2021). Mecánica y mantenimiento en maquinaria agrícola: Guía práctica para técnicos y agricultores. Editorial Agrícola.',
+          'Fernández, R., & García, M. (2021). <em>Mecánica y mantenimiento en maquinaria agrícola: Guía práctica para técnicos y agricultores</em>. Editorial Agrícola.',
         link: '',
       },
       {
         referencia:
-          'García, R. (2023). Mecanizado CNC y su Aplicación en la Industria. Biblioteca SENA. ',
+          'García, R. (2023). <em>Mecanizado CNC y su Aplicación en la Industria.</em> Biblioteca SENA. ',
         link: 'https://biblioteca.sena.edu.co/',
       },
       {
         referencia:
-          'García, T., & Rivas, L. (2016). Mantenimiento preventivo y correctivo en equipos agrícolas. Editorial de Tecnología Agrícola.',
+          'García, T., & Rivas, L. (2016). <em>Mantenimiento preventivo y correctivo en equipos agrícolas.</em> Editorial de Tecnología Agrícola.',
         link: '',
       },
       {
         referencia:
-          'González, M. (2015). Lubricación y reducción de fricción en maquinaria de campo. Editorial Ingeniería Sostenible.',
+          'González, M. (2015). <em>Lubricación y reducción de fricción en maquinaria de campo.</em> Editorial Ingeniería Sostenible.',
         link: '',
       },
       {
         referencia:
-          'López, P., & Torres, F. (2020). Conceptos avanzados de mecánica aplicada en el sector agrícola. Ingeniería y Tecnología Agrícola.',
+          'López, P., & Torres, F. (2020). <em>Conceptos avanzados de mecánica aplicada en el sector agrícola.</em> Ingeniería y Tecnología Agrícola.',
         link: '',
       },
       {
         referencia:
-          'Maristas Huelva. (n.d.). Arduino: Libro kit básico. [Documento PDF]. ',
+          'Maristas Huelva. (n.d.). <em>Arduino: Libro kit básico.<em> [Documento PDF]. ',
         link:
           'https://www.maristashuelva.es/webinfo/tecnologia/arduino/Libro_kit_Basico.pdf',
       },
       {
         referencia:
-          'Martínez, J., & Díaz, C. (2019). Ajustes y tolerancias en maquinaria agrícola pesada. Ediciones Técnicas.',
+          'Martínez, J., & Díaz, C. (2019). <em>Ajustes y tolerancias en maquinaria agrícola pesada.</em> Ediciones Técnicas.',
         link: '',
       },
       {
         referencia:
-          'Núñez, F. (2022). Fundamentos de Electrotecnia. [Video]. YouTube. ',
+          'Núñez, F. (2022). <em>Fundamentos de Electrotecnia.</em> [Video]. YouTube. ',
         link: 'https://www.youtube.com/c/AprenderElectricidad ',
       },
       {
         referencia:
-          'Organización Internacional del Trabajo. (2024). Big Data: conceptos y herramientas. [Artículo]. OIT. ',
+          'Organización Internacional del Trabajo. (2024). <em>Big Data: conceptos y herramientas.</em> [Artículo]. OIT. ',
         link: 'https://www.oit.org/big_data_conceptos',
       },
       {
         referencia:
-          'Ramírez, S. (2017). Transferencia de energía y sistemas de transmisión en maquinaria agrícola. Editorial Innovación en Agricultura.',
+          'Ramírez, S. (2017). <em>Transferencia de energía y sistemas de transmisión en maquinaria agrícola.</em> Editorial Innovación en Agricultura.',
         link: '',
       },
       {
         referencia:
-          'Rodríguez, A. (2022). Introducción al Dibujo Técnico. Universidad Abierta. ',
+          'Rodríguez, A. (2022). <em>Introducción al Dibujo Técnico.</em> Universidad Abierta. ',
         link: 'https://www.universidadabierta.edu/dibujo_tecnico',
       },
       {
         referencia:
-          'Salazar, J., & Pérez, M. (2014). Métodos de unión y ensamblaje en equipos agrícolas. Ediciones del Agro.',
+          'Salazar, J., & Pérez, M. (2014). <em>Métodos de unión y ensamblaje en equipos agrícolas.</em> Ediciones del Agro.',
         link: '',
       },
       {
         referencia:
-          'Servicio Nacional de Aprendizaje – SENA. (2024). Mecánica y Ajuste en Maquinaria Agrícola. [Manual]. Repositorio SENA.',
+          'Servicio Nacional de Aprendizaje – SENA. (2024). <em>Mecánica y Ajuste en Maquinaria Agrícola.</em> [Manual]. Repositorio SENA.',
         link: 'https://repositorio.sena.edu.co/handle/11404/4761',
       },
       {
         referencia:
-          'Sistema de Bibliotecas SENA. (2024). Metrología - Módulo Básico. ',
+          'Sistema de Bibliotecas SENA. (2024). <em>Metrología</em> - Módulo Básico. ',
         link: 'https://biblioteca.sena.edu.co/',
       },
       {
         referencia:
-          'Smith, A., & Johnson, R. (2018). Dinámica y estática para maquinaria industrial y agrícola. Prensa de Ingeniería Aplicada.',
+          'Smith, A., & Johnson, R. (2018). <em>Dinámica y estática para maquinaria industrial y agrícola.</em> Prensa de Ingeniería Aplicada.',
         link: '',
       },
       {
         referencia:
-          'Tinkercad. (n.d.). Circuitos DC y AC: Simulador en línea. [Simulador en línea]. ',
+          'Tinkercad. (n.d.). <em>Circuitos DC y AC: Simulador en línea.</em> [Simulador en línea]. ',
         link: 'https://www.tinkercad.com/embed/g1Pvn5fI1mE',
       },
       {
-        referencia: 'YouTube. (n.d.). ¿Cómo funciona el transistor? [Video].',
+        referencia:
+          'YouTube. (n.d.). <em>¿Cómo funciona el transistor?</em> [Video].',
         link: 'https://www.youtube.com/watch?v=ljSdrYmdF44',
       },
       {
-        referencia: 'YouTube. (n.d.). ¿Qué es un semiconductor? [Video]. ',
+        referencia:
+          'YouTube. (n.d.). <em> ¿Qué es un semiconductor?</em> [Video]. ',
         link: 'https://www.youtube.com/watch?v=fFVU7-kfPe8',
       },
       {
         referencia:
-          'YouTube. (n.d.). Diferencias entre corriente alterna y corriente directa. [Video]. ',
+          'YouTube. (n.d.). <em> Diferencias entre corriente alterna y corriente directa.</em> [Video]. ',
         link: 'https://www.youtube.com/watch?v=BPaIiaoYkNY',
       },
       {
-        referencia: 'YouTube. (n.d.). Electrónica digital. [Video]. ',
+        referencia: 'YouTube. (n.d.). <em> Electrónica digital.</em> [Video]. ',
         link: ' https://www.youtube.com/watch?v=MPEHYhKQztQ',
       },
       {
         referencia:
-          'YouTube. (n.d.). TRANSISTORIZED! La Historia De: El Transistor. [Video]. ',
+          'YouTube. (n.d.). <em> TRANSISTORIZED! La Historia De: El Transistor.</em> [Video]. ',
         link: 'https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s',
       },
     ],

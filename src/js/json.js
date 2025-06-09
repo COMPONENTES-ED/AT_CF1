@@ -192,7 +192,7 @@ export default {
     Name:
       'Fundamentos en tecnología aplicada en sistemas electromecánicos e industriales',
     Description:
-      'El componente brinda formación integral en desarrollo, análisis y monitoreo de sistemas productivos. Abarca áreas clave como electrotecnia DC, electrónica digital, sistemas Embebidos, dibujo técnico y caracterización de variables en procesos. Prepara a principiantes y técnicos para enfrentar los desafíos técnicos de la industria con visión analítica y operativa.',
+      'El componente brinda formación integral en desarrollo, análisis y monitoreo de sistemas productivos. Abarca áreas clave como electrotecnia DC, electrónica digital, sistemas embebidos, dibujo técnico y caracterización de variables en procesos. Prepara a principiantes y técnicos para enfrentar los desafíos técnicos de la industria con visión analítica y operativa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

@@ -35,7 +35,7 @@
               digitales que todo el tiempo están haciendo operaciones lógicas
               con unos y ceros, por tanto, casi cualquier dispositivo
               electrónico en esencia lo que hace es realizar operaciones lógicas
-              basadas en el algebra.
+              basadas en el álgebra.
             </p>
           </div>
         </div>
@@ -310,9 +310,9 @@
               <figure><img src="@/assets/curso/tema2/10.svg" /></figure>
             </div>
             <div class="col-md" style="place-self:center;">
-              <h4>Ejercicio práctico- compuertas lógicas</h4>
+              <h4>Ejercicio práctico - compuertas lógicas</h4>
               <p>
-                <strong>Ejercicio Práctico:</strong> Construcción de un Circuito
+                <strong>Ejercicio práctico:</strong> Construcción de un Circuito
                 con Compuertas Lógicas
               </p>
               <p class="mb-0">
@@ -479,7 +479,7 @@
             style="background-color:#C8E2AA;"
           >
             <p class="fw-bold">
-              Lenguajes Comunes: C y C++ como principales lenguajes para
+              Lenguajes comunes: C y C++ como principales lenguajes para
               microcontroladores
             </p>
             <p class="mb-0">
@@ -592,7 +592,7 @@
                 </p>
                 <p><strong>Lenguaje:</strong> C o C++.</p>
                 <p>
-                  <strong>Entorno de Desarrollo:</strong> Arduino IDE o MPLAB
+                  <strong>Entorno de Desarrollo:</strong> Arduino IDE o MPLAB.
                 </p>
               </td>
               <td style="border:0;">
@@ -648,14 +648,14 @@
                   móviles o pequeñas plataformas de transporte automatizado.
                 </p>
                 <p><strong>Lenguaje:</strong> C o C++.</p>
-                <p><strong>Entorno de Desarrollo:</strong> Arduino IDE</p>
+                <p><strong>Entorno de Desarrollo:</strong> Arduino IDE.</p>
               </td>
               <td style="border:0;">
                 <p>
                   En esta aplicación, los estudiantes aprenden a controlar
                   motores de corriente continua o motores paso a paso utilizando
                   módulos de control y funciones de PWM (modulación por ancho de
-                  pulso), esenciales en el manejo de motores
+                  pulso), esenciales en el manejo de motores.
                 </p>
               </td>
             </tr>
@@ -674,7 +674,7 @@
                 </p>
                 <p><strong>Lenguaje:</strong> C o C++.</p>
                 <p>
-                  <strong>Entorno de Desarrollo:</strong> Arduino IDE o MPLAB
+                  <strong>Entorno de Desarrollo:</strong> Arduino IDE o MPLAB.
                 </p>
               </td>
               <td style="border:0;">
@@ -731,7 +731,7 @@
                 </p>
                 <p><strong>Lenguaje:</strong> C o C++.</p>
                 <p>
-                  <strong>Entorno de Desarrollo:</strong> Arduino IDE o MPLAB
+                  <strong>Entorno de Desarrollo:</strong> Arduino IDE o MPLAB.
                 </p>
               </td>
               <td style="border:0;">

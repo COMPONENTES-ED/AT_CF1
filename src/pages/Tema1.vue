@@ -315,8 +315,8 @@
                 ><span
                   ><strong>Almacenamiento de energía:</strong> las baterías
                   recargables y otros dispositivos de almacenamiento de energía,
-                  como bancos de energía (power banks), usan corriente continua
-                  tanto para su carga como para suministrar energía a
+                  como bancos de energía (<em>power banks</em>), usan corriente
+                  continua tanto para su carga como para suministrar energía a
                   dispositivos portátiles.</span
                 >
               </li>
@@ -335,7 +335,7 @@
                 <i class="fas fa-check-circle" style="color:#78B62E;"></i
                 ><span
                   ><strong>Electrónica automotriz:</strong> los automóviles
-                  utilizan baterías de 12V DC para alimentar sistemas de
+                  utilizan baterías de 12 V DC para alimentar sistemas de
                   iluminación, arranque, entretenimiento y otros componentes
                   electrónicos en el vehículo.</span
                 >
@@ -346,11 +346,7 @@
       </div>
       <div class="row mt-5">
         <div class="col-lg-8" data-aos="fade-right">
-          <div class="titulo-sexto color-acento-contenido">
-            <h5>Tabla 1.</h5>
-            <span> Ejemplos de circuitos electrotecnia DC</span>
-          </div>
-          <div class="p-3" style="background-color:#78B62E;">
+          <div class="p-3 mb-5 tarjeta" style="background-color:#78B62E;">
             <p class="mb-0 fw-bold">
               Ejemplos de circuitos básicos en electrotecnia DC
             </p>
@@ -361,11 +357,19 @@
               siguientes ejemplos:
             </p>
           </div>
+          <div class="titulo-sexto color-acento-contenido">
+            <h5>Tabla 1.</h5>
+            <span> Ejemplos de circuitos electrotecnia DC</span>
+          </div>
           <div class="tabla-a color-acento-botones">
             <table>
               <caption class="fw-normal">
                 Fuente: OIT, 2024.
               </caption>
+              <thead style="border-top: none">
+                <th>Tipo de circuito</th>
+                <th>Descripción</th>
+              </thead>
               <tbody>
                 <tr style="background-color:#F6F6F6;">
                   <td
@@ -424,7 +428,7 @@
         dirección de manera periódica. A diferencia de la corriente continua, en
         la cual los electrones se mueven en una sola dirección, la corriente
         alterna invierte su dirección varias veces por segundo (frecuencia),
-        creando una forma de onda sinusoidal
+        creando una forma de onda sinusoidal.
       </p>
       <div class="cont_decorativo mb-4 mt-5" data-aos="fade-right">
         <div class="row">
@@ -687,7 +691,7 @@
             <figure><img src="@/assets/curso/tema1/3.svg" /></figure>
           </div>
           <div class="col ps-2" style="place-self:center;">
-            <h3 class="mb-0 pe-4">Usos de la electrotcnia AC</h3>
+            <h3 class="mb-0 pe-4">Usos de la electrotecnia AC</h3>
           </div>
         </div>
       </div>
@@ -754,11 +758,7 @@
           <figure><img src="@/assets/curso/tema1/16.png" /></figure>
         </div>
         <div class="col-lg-8" data-aos="fade-left">
-          <div class="titulo-sexto color-acento-contenido">
-            <h5>Tabla 2.</h5>
-            <span>Ejemplos de circuitos electrotecnia AC.</span>
-          </div>
-          <div class="p-3" style="background-color:#78B62E;">
+          <div class="p-3 mb-5" style="background-color:#78B62E;">
             <p class="mb-0 fw-bold">
               Ejemplos de Circuitos Básicos en Electrotecnia AC
             </p>
@@ -769,11 +769,19 @@
               >, y experimentar con los siguientes circuitos:
             </p>
           </div>
+          <div class="titulo-sexto color-acento-contenido">
+            <h5>Tabla 2.</h5>
+            <span>Ejemplos de circuitos electrotecnia AC.</span>
+          </div>
           <div class="tabla-a color-acento-botones">
             <table>
               <caption class="fw-normal">
                 Fuente: OIT, 2024.
               </caption>
+              <thead>
+                <th>Tipo de circuito</th>
+                <th>Descripción</th>
+              </thead>
               <tbody>
                 <tr style="background-color:#F6F6F6;">
                   <td
