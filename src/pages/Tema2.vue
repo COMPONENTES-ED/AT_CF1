@@ -89,7 +89,7 @@
         <p data-aos="fade-right">
           Para trabajar en electrónica digital, es fundamental comprender los
           sistemas de numeración, ya que toda la información en un circuito
-          digital se representa en forma de número
+          digital se representa en forma de número.
         </p>
         <div class="row mt-4">
           <div class="col-lg mb-4 mb-lg-0" data-aos="zoom-in">

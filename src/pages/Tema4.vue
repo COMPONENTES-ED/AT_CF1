@@ -428,7 +428,7 @@
       </div>
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
-        <h2 id="t_4_3">4.3 Técnicas de Mecanizado para Ajuste</h2>
+        <h2 id="t_4_3">4.3 Técnicas de mecanizado para ajuste</h2>
       </div>
       <div class="cont_decorativo mb-4 mt-5" data-aos="fade-right">
         <div class="row">

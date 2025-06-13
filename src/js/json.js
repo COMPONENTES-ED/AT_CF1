@@ -109,7 +109,7 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Técnicas de Mecanizado para Ajuste',
+            titulo: 'Técnicas de mecanizado para ajuste',
             hash: 't_4_3',
           },
         ],
@@ -117,7 +117,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Herramientas y Sistema de Montajes',
+        titulo: 'Herramientas y sistema de montajes',
         desarrolloContenidos: true,
         subMenu: [
           {

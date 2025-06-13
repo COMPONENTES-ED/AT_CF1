@@ -381,7 +381,7 @@
                   <td style="border:0;">
                     Conecta varios resistores en serie y observa cómo la
                     corriente es la misma en cada punto del circuito, mientras
-                    que el voltaje se reparte entre los resistores
+                    que el voltaje se reparte entre los resistores.
                   </td>
                 </tr>
                 <tr style="background-color:#fff;">

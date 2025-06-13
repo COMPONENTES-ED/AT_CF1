@@ -4,7 +4,7 @@
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5 mb-5">
       <div class="titulo-principal color-acento-contenido" data-aos="flip-up">
         <div class="titulo-principal__numero"><span>5</span></div>
-        <h1>Herramientas y Sistema de Montajes</h1>
+        <h1>Herramientas y sistema de montajes</h1>
       </div>
       <div class="row">
         <div class="col-lg" data-aos="fade-right">
