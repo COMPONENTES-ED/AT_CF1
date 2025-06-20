@@ -366,7 +366,7 @@
           .row.pt-lg-4.col-xl-11.m-auto
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h5 Vista isométrica
-              p.mb-0 La vista isométrica presenta el objeto en un ángulo de 30° respecto a cada eje principal (x, y, z), lo que permite ver tres caras del objeto al mismo tiempo. Mantiene las dimensiones reales sin distorsión de escala, por lo que las proporciones se mantienen constantes.
+              p.mb-0 La vista isométrica presenta el objeto en un ángulo de 30 ° respecto a cada eje principal (x, y, z), lo que permite ver tres caras del objeto al mismo tiempo. Mantiene las dimensiones reales sin distorsión de escala, por lo que las proporciones se mantienen constantes.
                 br
                 br
                 |Se utiliza para mostrar objetos con claridad en su volumen y estructura sin la distorsión que ocurre en una perspectiva. Es común en planos de ensamblaje y diseño de piezas, donde se necesita una representación clara y proporcional del objeto.
@@ -457,7 +457,7 @@
               li.d-flex(style="border-radius:4px;")
                 i.fas.fa-check-circle(style="color:#01B9D1;")
                 span Colocar las medidas más importantes primero, permitiendo que las más pequeñas y secundarias queden visibles sin sobrecargar el plano.
-            p.mb-0 #[b Se recomienda:] ejercicio eráctico - en un dibujo con vistas de una pieza (vista frontal y lateral), agregar cotas para especificar todas las dimensiones clave, incluyendo longitud, ancho y profundidad.
+            p.mb-0 #[b Se recomienda:] ejercicio práctico - en un dibujo con vistas de una pieza (vista frontal y lateral), agregar cotas para especificar todas las dimensiones clave, incluyendo longitud, ancho y profundidad.
       div.py-3.py-md-4(titulo="Normas de acotado")
         .row.p-4.col-xl-11.m-auto
           .col-lg-4.mb-4.mb-md-0.col-7.m-auto

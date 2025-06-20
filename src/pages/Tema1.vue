@@ -47,7 +47,7 @@
         los principios de la electricidad, su generación, transmisión y
         distribución, y sus aplicaciones en dispositivos y sistemas. Dentro de
         la electrotecnia, encontramos la corriente continua (DC) y la corriente
-        alterna (AC) como los dos tipos principales de corriente eléctrica
+        alterna (AC), como los dos tipos principales de corriente eléctrica
         utilizados en distintos contextos.
       </p>
       <div class="row mt-4">

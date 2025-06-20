@@ -17,12 +17,13 @@
         <div class="col-lg" data-aos="fade-left">
           <p>
             El núcleo del diagrama se centra en el concepto principal de los
-            “Fundamentos en Tecnología Aplicada”, del cual se desprenden áreas
-            clave de aprendizaje: electrotecnia, electrónica digital, sistemas
-            embebidos, dibujo técnico, y mecánica y ajuste. Estas áreas se
-            subdividen en temas específicos que reflejan la estructura del
-            componente, abarcando desde principios básicos hasta aplicaciones
-            prácticas en contextos agroindustriales.
+            “Fundamentos en tecnología aplicada en sistemas electromecánicos e
+            industriales”, del cual se desprenden áreas clave de aprendizaje:
+            electrotecnia, electrónica digital, sistemas embebidos, dibujo
+            técnico, y mecánica y ajuste. Estas áreas se subdividen en temas
+            específicos que reflejan la estructura del componente, abarcando
+            desde principios básicos hasta aplicaciones prácticas en contextos
+            agroindustriales.
           </p>
           <div class="p-4" style="background-color:#F0F7E8;border-radius:12px;">
             <figure class="mb-2">
