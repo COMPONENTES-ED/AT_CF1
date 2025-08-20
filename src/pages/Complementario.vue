@@ -76,49 +76,49 @@ export default {
         {
           tema: '“Máquinas Agrícolas: diseño industria',
           referencia:
-            'Nardon, G. “bocha” [@gustavonardon3873]. (n.d.). Máquinas Agrícolas: diseño industrial (Parte 1 de 2). [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=YS5cHpWLNEE',
+            'Nardon, G. “bocha” [@gustavonardon3873]. (n.d.). Máquinas Agrícolas: diseño industrial (Parte 1 de 2). [Video]. Youtube. ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=YS5cHpWLNEE',
         },
         {
           tema: '“Máquinas Agrícolas: diseño industria',
           referencia:
-            'Nardon, G. “bocha” [@gustavonardon3873]. (s/f-b). Máquinas Agrícolas: diseño industrial (Parte 2 de 2). [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=mxsKI3NCQlY',
+            'Nardon, G. “bocha” [@gustavonardon3873]. (s/f-b). Máquinas Agrícolas: diseño industrial (Parte 2 de 2). [Video]. Youtube. ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=mxsKI3NCQlY ',
         },
         {
           tema: 'Electrónica digital',
           referencia:
-            'Ciencia-Edu [@CienciaEdu]. (s/f). Lo que debes saber de la Electrónica Digital. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=MPEHYhKQztQ',
+            'Ciencia-Edu [@CienciaEdu]. (s/f). Lo que debes saber de la Electrónica Digital. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=MPEHYhKQztQ',
         },
         {
           tema: 'TRANSISTORIZED! La Historia De: El Transistor',
           referencia:
-            'MILLERTRON [@MILLERTRON]. (n.d.). TRANSISTORIZED! La historia DE: El transistor. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s',
+            'MILLERTRON [@MILLERTRON]. (n.d.). TRANSISTORIZED! La historia DE: El transistor. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s ',
         },
         {
           tema: 'Diferencias entre corriente alterna y corriente directa',
           referencia:
-            'Cogollo, J. [@JorgeCogollo]. (n.d.). Diferencia entre CORRIENTE ALTERNA y CORRIENTE CONTINUA. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=BPaIiaoYkNY',
+            'Cogollo, J. [@JorgeCogollo]. (n.d.). Diferencia entre CORRIENTE ALTERNA y CORRIENTE CONTINUA. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=BPaIiaoYkNY',
         },
         {
           tema: '¿Cómo funciona el transistor',
           referencia:
-            'CuriosaMente [@curiosamente]. (n.d.). ¿Cómo funciona el TRANSISTOR?. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=ljSdrYmdF44',
+            'CuriosaMente [@curiosamente]. (n.d.). ¿Cómo funciona el TRANSISTOR?. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=ljSdrYmdF44',
         },
         {
           tema: 'Qué es un semiconductor',
           referencia:
-            'MindMachineTV [@MindMachineTV]. (n.d.). ¿Qué es un semiconductor? - una explicación sencilla. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=fFVU7-kfPe8',
+            'MindMachineTV [@MindMachineTV]. (n.d.). ¿Qué es un semiconductor? - una explicación sencilla. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=fFVU7-kfPe8',
         },
