@@ -512,7 +512,7 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 6. 
       span Dibujo técnico
-    img(src='@/assets/curso/tema3/11.svg', alt='La figura muestra los componentes del capítulo de dibujo técnico: Dibujo artístico Vs. Dibujo técnico, Instrumentos y manejo en el dibujo técnico, Nociones de geometría plana, Tipos de vistas y proyecciones, Interpretación de formas, acotado y lectura de planos.')
+    img(src='@/assets/curso/tema3/11.svg', alt='La figura muestra los componentes del capítulo de dibujo técnico: Dibujo artístico Vs. Dibujo técnico, Instrumentos y manejo en el dibujo técnico, Nociones de geometría plana, Tipos de vistas y proyecciones, Interpretación de formas, acotado y lectura de planos.')
 
 
 
