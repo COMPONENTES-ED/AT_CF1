@@ -246,11 +246,19 @@
               titulo="Compuerta &lt;em&gt;AND&lt;/em&gt;"
             >
               <p>Produce una salida de 1 solo si ambas entradas son 1.</p>
-              <p class="mb-0">Tabla de verdad:</p>
+              <p class="mb-0">Compuerta AND</p>
               <figure>
+                <div
+                  class="titulo-sexto color-acento-contenido mt-3"
+                  data-aos="fade-down"
+                >
+                  <h5>Figura 2.</h5>
+                  <span>Electrotecnia</span>
+                </div>
                 <img
                   src="@/assets/curso/tema2/7.svg"
                   style="max-width:150px;"
+                  alt="Imagen que presenta la tabla de verdad de la compuerta AND."
                 />
               </figure>
             </div>
@@ -262,10 +270,18 @@
                 Produce una salida de 1 si al menos una de las entradas es 1.
               </p>
               <p class="mb-0">Tabla de verdad:</p>
+              <div
+                class="titulo-sexto color-acento-contenido mt-3"
+                data-aos="fade-down"
+              >
+                <h5>Figura 3.</h5>
+                <span>Compuerta OR</span>
+              </div>
               <figure>
                 <img
                   src="@/assets/curso/tema2/8.svg"
                   style="max-width:150px;"
+                  alt="Imagen que presenta la tabla de verdad de la compuerta OR."
                 />
               </figure>
             </div>
@@ -275,10 +291,18 @@
             >
               <p>Invierte la entrada.</p>
               <p class="mb-0">Tabla de verdad:</p>
+              <div
+                class="titulo-sexto color-acento-contenido mt-3"
+                data-aos="fade-down"
+              >
+                <h5>Figura 4.</h5>
+                <span>Compuerta NOT</span>
+              </div>
               <figure>
                 <img
                   src="@/assets/curso/tema2/9.svg"
                   style="max-width:150px;"
+                  alt="Imagen que presenta la tabla de verdad de la compuerta NOT."
                 />
               </figure>
             </div>

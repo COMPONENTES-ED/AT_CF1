@@ -839,7 +839,7 @@
         <figure data-aos="fade-up">
           <img
             src="@/assets/curso/tema1/17.svg"
-            alt="La Figura 1. se denomina «Electrotecnia DC». Muestra un mapa conceptual sobre “Electrotecnia DC” que se ramifica en cinco secciones principales: introducción, fundamentos, componentes, aplicaciones, y ventajas y desventajas. Cada rama incluye subtemas específicos relacionados con conceptos y elementos de la corriente continua. Se adjunta link, para su mejor observación: https://www.mindomo.com/mindmap/6a5386c826f24eea8b5e3201b017587f"
+            alt="La Figura 1 se denomina «Electrotecnia DC». Muestra un mapa conceptual sobre “Electrotecnia DC” que se ramifica en cinco secciones principales: introducción, fundamentos, componentes, aplicaciones, y ventajas y desventajas. Cada rama incluye subtemas específicos relacionados con conceptos y elementos de la corriente continua."
           />
         </figure>
       </div>

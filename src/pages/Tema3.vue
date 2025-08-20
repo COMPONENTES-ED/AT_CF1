@@ -222,10 +222,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 2.
+          h5 Figura 5.
           span Tipos de línea en dibujo técnico
         .tarjeta.p-4(style="background-color: #f9f7f4 ")
-          img(src='@/assets/curso/tema3/9.svg', alt='')
+          img(src='@/assets/curso/tema3/9.svg', alt='La imagen muestra una guía de tipos de líneas utilizadas en dibujo técnico, incluyendo 12 diferentes estilos desde líneas gruesas continuas hasta líneas finas con zigzag. Cada tipo se acompaña de su descripción y uso específico, como contornos visibles, líneas de cota, ejes de simetría y cortes. Al final incluye una nota sobre las proporciones de grosor (gruesa 1, media 0.5, fina 0.2) y un ejemplo de aplicación en cortes de figuras.')
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.3	Nociones de geometría plana
@@ -510,9 +510,9 @@
         //-     .anexo__texto
         //-       p Anexo. Tipos de línea en dibujo técnico
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 3. 
+      h5 Figura 6. 
       span Dibujo técnico
-    img(src='@/assets/curso/tema3/11.svg', alt='La figura muestra los componentes del capítulo de dibujo técnico: Dibujo artístico Vs. Dibujo técnico, Instrumentos y manejo en el dibujo técnico, Nociones de geometría plana, Tipos de vistas y proyecciones, Interpretación de formas, acotado y lectura de planos.')
+    img(src='@/assets/curso/tema3/11.svg', alt='La figura muestra los componentes del capítulo de dibujo técnico: Dibujo artístico Vs. Dibujo técnico, Instrumentos y manejo en el dibujo técnico, Nociones de geometría plana, Tipos de vistas y proyecciones, Interpretación de formas, acotado y lectura de planos.')
 
 
 

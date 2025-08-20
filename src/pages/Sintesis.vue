@@ -45,7 +45,10 @@
       <div class="mt-5 row justify-content-center">
         <div class="col-lg-10 mb-5">
           <figure data-aos="fade-up" data-aos-duration="800">
-            <img src="@/assets/curso/sintesis.svg" alt="alt" />
+            <img
+              src="@/assets/curso/sintesis.svg"
+              alt="La síntesis como mapa conceptual ilustra los fundamentos en tecnología aplicada en sistemas electromecánicos e industriales, ramificándose en cuatro áreas principales: importancia de la tecnología agrícola, propósito del módulo, temas clave (incluyendo electrotecnia DC/AC, electrónica digital, dibujo técnico, mecánica y herramientas), y el enfoque integral de la electrónica en el sector agrícola, cada uno con sus respectivos subtemas y aplicaciones específicas."
+            />
           </figure>
         </div>
         <div class="col-auto">
