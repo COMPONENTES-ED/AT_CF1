@@ -61,7 +61,7 @@ export default {
         {
           tema: 'Arduino',
           referencia:
-            'Maristas Huelva. (n.d.). <em>Arduino: Libro kit básico</em>. [Documento PDF].',
+            'Maristas huelva. (n.d.). Arduino: Libro kit básico. [Documento PDF].',
           tipo: 'Documento',
           link:
             'https://www.maristashuelva.es/webinfo/tecnologia/arduino/Libro_kit_Basico.pdf',
@@ -69,84 +69,95 @@ export default {
         {
           tema: 'Circuitos DC y AC',
           referencia:
-            'Tinkercad. (n.d.). <em>Circuitos DC y AC: Simulador en línea</em>. [Simulador en línea].',
+            'Circuit design Sensores y Actuadores. (n.d.). Tinkercad. [Simulador en linea].',
           tipo: 'Simulador en línea',
-          link: 'https://www.tinkercad.com/embed/g1Pvn5fI1mE',
+          link: 'https://www.tinkercad.com/embed/g1Pvn5fI1mE ',
         },
         {
           tema: '“Máquinas Agrícolas: diseño industria',
           referencia:
-            'YouTube. (n.d.). <em>Máquinas Agrícolas: diseño industrial</em>. [Video]. YouTube. ',
+            'Nardon, G. “bocha” [@gustavonardon3873]. (n.d.). Máquinas Agrícolas: diseño industrial (Parte 1 de 2). [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=YS5cHpWLNEE',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=mxsKI3NCQlY',
+          link: 'https://www.youtube.com/watch?v=YS5cHpWLNEE',
+        },
+        {
+          tema: '“Máquinas Agrícolas: diseño industria',
+          referencia:
+            'Nardon, G. “bocha” [@gustavonardon3873]. (s/f-b). Máquinas Agrícolas: diseño industrial (Parte 2 de 2). [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=mxsKI3NCQlY',
+          tipo: 'Video',
+          link: 'https://www.youtube.com/watch?v=mxsKI3NCQlY ',
         },
         {
           tema: 'Electrónica digital',
           referencia:
-            'YouTube. (n.d.). <em>Electrónica digital</em>. [Video]. YouTube',
+            'Ciencia-Edu [@CienciaEdu]. (s/f). Lo que debes saber de la Electrónica Digital. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=MPEHYhKQztQ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=MPEHYhKQztQ',
         },
         {
-          tema: 'TRANSISTORIZED! La historia de: El Transistor',
+          tema: 'TRANSISTORIZED! La Historia De: El Transistor',
           referencia:
-            'YouTube. (n.d.). TRANSISTORIZED! <em>La historia de: El Transistor</em>. [Video]. YouTube',
+            'MILLERTRON [@MILLERTRON]. (n.d.). TRANSISTORIZED! La historia DE: El transistor. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s',
+          link: 'https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s ',
         },
         {
           tema: 'Diferencias entre corriente alterna y corriente directa',
           referencia:
-            'YouTube. (n.d.). <em>Diferencias entre corriente alterna y corriente directa</em>. [Video]. YouTube',
+            'Cogollo, J. [@JorgeCogollo]. (n.d.). Diferencia entre CORRIENTE ALTERNA y CORRIENTE CONTINUA. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=BPaIiaoYkNY',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=BPaIiaoYkNY',
         },
         {
-          tema: '¿Cómo funciona el transistor?',
+          tema: '¿Cómo funciona el transistor',
           referencia:
-            'YouTube. (n.d.). <em>¿Cómo funciona el transistor?</em> [Video]. YouTube.',
+            'CuriosaMente [@curiosamente]. (n.d.). ¿Cómo funciona el TRANSISTOR?. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=ljSdrYmdF44',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=ljSdrYmdF44',
         },
         {
           tema: 'Qué es un semiconductor',
           referencia:
-            'YouTube. (n.d.). <em>¿Qué es un semiconductor</em>. [Video]. YouTube',
+            'MindMachineTV [@MindMachineTV]. (n.d.). ¿Qué es un semiconductor? - una explicación sencilla. [Video]. Youtube. Recuperado el 10 de junio de 2025, de https://www.youtube.com/watch?v=fFVU7-kfPe8',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=fFVU7-kfPe8',
         },
         {
           tema: 'Electrotecnia (AC, DC)',
-          referencia: 'Nunez, F. (2022). "Fundamentos de Electrotecnia".',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/fundamentos_electrotecnia',
+          referencia: 'Jimcontent.com.(n.d.). [Libro].',
+          tipo: 'Libro',
+          link:
+            'https://sfb55068d25a70fdb.jimcontent.com/download/version/1445959225/module/10625520360/name/fundamentos_de_electrotecnia_archivo1.pdf ',
         },
         {
           tema: 'Electrónica Digital',
           referencia:
-            'Jiménez, M. (2023). Introducción a la Electrónica Digital. Biblioteca SENA',
-          tipo: 'Capítulo de libro',
-          link: 'https://biblioteca.sena.edu.co/',
+            'Pujols, E. G. (n.d.). Introducción a la electrónica digital. [Documento PDF] Uoc.edu.',
+          tipo: 'Libro',
+          link:
+            'https://openaccess.uoc.edu/server/api/core/bitstreams/b69fc326-23b8-45b2-beef-667508ce4b34/content',
         },
         {
           tema: 'Sistemas de Control',
-          referencia: 'OpenAI. (2024). "Simulador de Circuitos". OpenAI.',
+          referencia:
+            'Click, O. (n.d.). Online circuit simulator & schematic editor. CircuitLab. [Simulador].',
           tipo: 'Simulador',
-          link: 'https://www.circuitlab.com/',
+          link: 'CircuitLab',
         },
         {
           tema: 'Dibujo Técnico',
-          referencia:
-            'Rodríguez, A. (2022). "Introducción al Dibujo Técnico". Universidad Abierta.',
-          tipo: 'Artículo',
-          link: 'Universidad Abierta',
+          referencia: 'Ieszaframagon.com. (n.d.). [Documento PDF].',
+          tipo: 'Manual',
+          link:
+            'https://www.ieszaframagon.com/files/recursos_files/Unidad-Dibujo-t%C3%A9cnico.pdf ',
         },
         {
           tema: 'Procesos Industriales',
           referencia:
-            'García, R. (2023). "Mecanizado CNC y su Aplicación en la Industria". Biblioteca SENA.',
-          tipo: 'Capítulo de libro',
-          link: 'https://biblioteca.sena.edu.co/',
+            'Vista de Evolución y utilidad del mecanizado CNC en el diseño industrial. (n.d.). [Documento PDF].',
+          tipo: 'Artículo',
+          link:
+            'https://www.journalingeniar.org/index.php/ingeniar/article/view/108/156',
         },
       ]
     },

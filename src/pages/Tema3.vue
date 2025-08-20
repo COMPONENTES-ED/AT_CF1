@@ -8,14 +8,14 @@
       h1 Dibujo Técnico
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
-        p.mb-4 El dibujo técnico es una disciplina esencial que se encuentra en la intersección del arte y la ingeniería, donde la precisión y la creatividad se unen para representar ideas, diseños y soluciones de manera clara y detallada. Dominar esta habilidad es fundamental para aquellos que buscan carreras en campos como la arquitectura, la ingeniería, la fabricación y muchas otras disciplinas técnicas. 
+        p.mb-4 El dibujo técnico es una disciplina esencial que se encuentra en la intersección del arte y la ingeniería, donde la precisión y la creatividad se unen para representar ideas, diseños y soluciones de manera clara y detallada. Dominar esta habilidad es fundamental para aquellos que buscan carreras en campos como la arquitectura, la ingeniería, la fabricación y muchas otras disciplinas técnicas.
         .p-4.rounded-3(style="background-color: #98e2ec")
           p.mb-0 Antes de embarcarnos en la exploración de los principios y técnicas del dibujo técnico asociado a las labores agrícolas, pecuarias o agroindustriales, es importante realizar una adecuada contextualización y una identificación de los conocimientos necesarios para el aprendizaje. En esta sección inicial de nuestra guía, estableceremos el escenario y sentaremos las bases para un aprendizaje efectivo y significativo.
       .col-lg-5.col-7: img(src='@/assets/curso/tema3/1.png', alt='')
     .row.justify-content-center.mb-5
       .col-lg-4.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/tema3/2.png', alt='')
       .col-lg-8
-        p.mb-2 El dibujo técnico es un lenguaje universal que trasciende las barreras del idioma y conecta a profesionales de diversas disciplinas en la comunicación de ideas, diseños y proyectos. Es un medio para plasmar ideas en el papel, una herramienta fundamental en la toma de decisiones y la resolución de problemas en campos tan diversos como la ingeniería, la arquitectura, la fabricación, la construcción la agricultura en muchas otras labores. Este apartado pretende dar una base en los principios esenciales del dibujo técnico, que permitirán a los aprendices traducir conceptos abstractos en representaciones visuales claras y precisas. desde la creación de dibujos bidimensionales simples hasta la comprensión de planos tridimensionales complejos conceptos básicos, como las proyecciones ortogonales, la simetría, la escala y la representación de objetos en diferentes vistas. Además, se explorará en el uso de herramientas y software de dibujo asistido por computadora (CAD) que han revolucionado la forma en que se crea y se comparte el dibujo técnico en la era digital. 
+        p.mb-2 El dibujo técnico es un lenguaje universal que trasciende las barreras del idioma y conecta a profesionales de diversas disciplinas en la comunicación de ideas, diseños y proyectos. Es un medio para plasmar ideas en el papel, una herramienta fundamental en la toma de decisiones y la resolución de problemas en campos tan diversos como la ingeniería, la arquitectura, la fabricación, la construcción la agricultura en muchas otras labores. Este apartado pretende dar una base en los principios esenciales del dibujo técnico, que permitirán a los aprendices traducir conceptos abstractos en representaciones visuales claras y precisas. desde la creación de dibujos bidimensionales simples hasta la comprensión de planos tridimensionales complejos conceptos básicos, como las proyecciones ortogonales, la simetría, la escala y la representación de objetos en diferentes vistas. Además, se explorará en el uso de herramientas y software de dibujo asistido por computadora (CAD) que han revolucionado la forma en que se crea y se comparte el dibujo técnico en la era digital.
         a.anexo.mb-4(href="https://www.youtube.com/watch?v=YS5cHpWLNEE" target="_blank")
           .row.justify-content-around.align-items-center
             .anexo__icono
@@ -77,7 +77,7 @@
           figure
             img(src="@/assets/curso/tema1/3.svg")
         .col.ps-2(style="place-self:center;")
-          h3.mb-0.pe-4 Aplicación del dibujo técnico en procesos industriales     
+          h3.mb-0.pe-4 Aplicación del dibujo técnico en procesos industriales
     p.mb-4 En la industria, el dibujo técnico no solo describe las características físicas de un objeto, sino que también se integra en los procesos de producción y ensamblaje. A continuación, se describen algunas de sus aplicaciones en procesos industriales:
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
@@ -141,9 +141,9 @@
               tr
                 td Lápices y Portaminas
                 td Los lápices y portaminas de diferentes durezas (H, HB, 2B, etc.) Se utilizan para trazar líneas de distinto grosor y tonalidad, necesarios para distinguir diferentes partes del dibujo.
-            
-            
-            
+
+
+
     .cont_decorativo.mb-4.mt-5(data-aos="fade-right")
       .row
         .col-auto.pe-0
@@ -188,7 +188,7 @@
             tbody
               tr
                 td Línea de contorno
-                td Representa el contorno visible del objeto. Es el borde principal que define la forma y los límites del objeto en el dibujo. 
+                td Representa el contorno visible del objeto. Es el borde principal que define la forma y los límites del objeto en el dibujo.
                   br
                   br
                   |Se traza con líneas continuas y de grosor medio a grueso para que sean visibles de inmediato.
@@ -503,12 +503,16 @@
           li.d-flex(style="border-radius:4px;")
             i.fas.fa-check-circle(style="color:#01B9D1;")
             span Notas y anotaciones: indicaciones sobre el acabado, materiales o cualquier otra característica adicional que el plano técnico deba comunicar.
-        a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-          .row.justify-content-around.align-items-center
-            .anexo__icono
-              img(src="@/assets/bullets/icono-pdf.svg")
-            .anexo__texto
-              p Anexo. Tipos de línea en dibujo técnico
+        //- a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+        //-   .row.justify-content-around.align-items-center
+        //-     .anexo__icono
+        //-       img(src="@/assets/bullets/icono-pdf.svg")
+        //-     .anexo__texto
+        //-       p Anexo. Tipos de línea en dibujo técnico
+    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+      h5 Figura 3. 
+      span Dibujo técnico
+    img(src='@/assets/curso/tema3/11.svg', alt='La figura muestra los componentes del capítulo de dibujo técnico: Dibujo artístico Vs. Dibujo técnico, Instrumentos y manejo en el dibujo técnico, Nociones de geometría plana, Tipos de vistas y proyecciones, Interpretación de formas, acotado y lectura de planos.')
 
 
 
