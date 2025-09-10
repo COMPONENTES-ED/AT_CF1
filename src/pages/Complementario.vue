@@ -60,65 +60,64 @@ export default {
       return [
         {
           tema: 'Arduino',
-          referencia:
-            'Maristas huelva. (n.d.). Arduino: Libro kit básico. [Documento PDF].',
+          referencia: 'S.f.).Candy-ho.com.',
           tipo: 'Documento',
           link:
-            'https://www.maristashuelva.es/webinfo/tecnologia/arduino/Libro_kit_Basico.pdf',
+            'https://candy-ho.com/Drivers/librodeproyectosdearduinostarterkit-151212174250.pdf?srsltid=AfmBOoqQ0zZm_YK3m_njhKi_E8eu9IwqcokHwmTnEl6-rSpkJnpvWPcq',
         },
         {
           tema: 'Circuitos DC y AC',
           referencia:
-            'Circuit design Sensores y Actuadores. (n.d.). Tinkercad. [Simulador en linea].',
+            'Circuit design Sensores y Actuadores. (n.d.). <em>Tinkercad</em>. [Simulador en linea].',
           tipo: 'Simulador en línea',
           link: 'https://www.tinkercad.com/embed/g1Pvn5fI1mE ',
         },
         {
           tema: '“Máquinas Agrícolas: diseño industria',
           referencia:
-            'Nardon, G. “bocha” [@gustavonardon3873]. (n.d.). Máquinas Agrícolas: diseño industrial (Parte 1 de 2). [Video]. Youtube. ',
+            'Nardon, G. “bocha” [@gustavonardon3873]. (n.d.). <em>Máquinas Agrícolas: diseño industrial</em> (Parte 1 de 2). [Video]. Youtube. ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=YS5cHpWLNEE',
         },
         {
           tema: '“Máquinas Agrícolas: diseño industria',
           referencia:
-            'Nardon, G. “bocha” [@gustavonardon3873]. (s/f-b). Máquinas Agrícolas: diseño industrial (Parte 2 de 2). [Video]. Youtube. ',
+            'Nardon, G. “bocha” [@gustavonardon3873]. (s/f-b). <em>Máquinas Agrícolas: diseño industrial (Parte 2 de 2).</em> [Video]. Youtube. ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=mxsKI3NCQlY ',
         },
         {
           tema: 'Electrónica digital',
           referencia:
-            'Ciencia-Edu [@CienciaEdu]. (s/f). Lo que debes saber de la Electrónica Digital. [Video]. Youtube.',
+            'Ciencia-Edu [@CienciaEdu]. (s/f). <em>Lo que debes saber de la Electrónica Digital.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=MPEHYhKQztQ',
         },
         {
           tema: 'TRANSISTORIZED! La Historia De: El Transistor',
           referencia:
-            'MILLERTRON [@MILLERTRON]. (n.d.). TRANSISTORIZED! La historia DE: El transistor. [Video]. Youtube.',
+            'MILLERTRON [@MILLERTRON]. (n.d.). <em>TRANSISTORIZED! La historia DE: El transistor.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=f3IUVvJ2XgI&t=1899s ',
         },
         {
           tema: 'Diferencias entre corriente alterna y corriente directa',
           referencia:
-            'Cogollo, J. [@JorgeCogollo]. (n.d.). Diferencia entre CORRIENTE ALTERNA y CORRIENTE CONTINUA. [Video]. Youtube.',
+            'Cogollo, J. [@JorgeCogollo]. (n.d.). <em>Diferencia entre CORRIENTE ALTERNA y CORRIENTE CONTINUA.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=BPaIiaoYkNY',
         },
         {
           tema: '¿Cómo funciona el transistor',
           referencia:
-            'CuriosaMente [@curiosamente]. (n.d.). ¿Cómo funciona el TRANSISTOR?. [Video]. Youtube.',
+            'CuriosaMente [@curiosamente]. (n.d.). <em>¿Cómo funciona el TRANSISTOR?.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=ljSdrYmdF44',
         },
         {
           tema: 'Qué es un semiconductor',
           referencia:
-            'MindMachineTV [@MindMachineTV]. (n.d.). ¿Qué es un semiconductor? - una explicación sencilla. [Video]. Youtube.',
+            'MindMachineTV [@MindMachineTV]. (n.d.). <em>¿Qué es un semiconductor? - una explicación sencilla.</em> [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=fFVU7-kfPe8',
         },
@@ -132,7 +131,7 @@ export default {
         {
           tema: 'Electrónica Digital',
           referencia:
-            'Pujols, E. G. (n.d.). Introducción a la electrónica digital. [Documento PDF] Uoc.edu.',
+            'Pujols, E. G. (n.d.). <em>Introducción a la electrónica digital.</em> [Documento PDF] Uoc.edu.',
           tipo: 'Libro',
           link:
             'https://openaccess.uoc.edu/server/api/core/bitstreams/b69fc326-23b8-45b2-beef-667508ce4b34/content',
@@ -140,7 +139,7 @@ export default {
         {
           tema: 'Sistemas de Control',
           referencia:
-            'Click, O. (n.d.). Online circuit simulator & schematic editor. CircuitLab. [Simulador].',
+            'Click, O. (n.d.). <em> Online circuit simulator & schematic editor.</em> CircuitLab. [Simulador].',
           tipo: 'Simulador',
           link: 'CircuitLab',
         },
@@ -154,7 +153,7 @@ export default {
         {
           tema: 'Procesos Industriales',
           referencia:
-            'Vista de Evolución y utilidad del mecanizado CNC en el diseño industrial. (n.d.). [Documento PDF].',
+            '<em>Vista de Evolución y utilidad del mecanizado CNC en el diseño industrial.</em> (n.d.). [Documento PDF].',
           tipo: 'Artículo',
           link:
             'https://www.journalingeniar.org/index.php/ingeniar/article/view/108/156',

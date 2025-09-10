@@ -155,7 +155,7 @@
                   <figure>
                     <img
                       class="d-inline"
-                      src="@/assets/curso/tema4/6.png"
+                      src="@/assets/curso/tema4/discoarado.png"
                       style="max-width:170px;"
                     />
                   </figure>
