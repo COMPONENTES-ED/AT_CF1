@@ -23,7 +23,7 @@ export default {
     referencias: [
       {
         referencia:
-          'Click, O. (n.d.). Online circuit simulator & schematic editor. CircuitLab. [Simulador]. Recuperado el 11 de junio de 2025, de',
+          'Click, O. (n.d.). <em>Online circuit simulator & schematic editor.</em> CircuitLab. [Simulador]. Recuperado el 11 de junio de 2025, de',
         link: 'https://www.circuitlab.com/',
       },
       {
@@ -34,17 +34,17 @@ export default {
       },
       {
         referencia:
-          'Fernández, R., & García, M. (2021). Mecánica y mantenimiento en maquinaria agrícola: Guía práctica para técnicos y agricultores. Editorial Agrícola.',
+          'Fernández, R., & García, M. (2021). <em>Mecánica y mantenimiento en maquinaria agrícola: Guía práctica para técnicos y agricultores.</em> Editorial Agrícola.',
         link: '',
       },
       {
         referencia:
-          'García, T., & Rivas, L. (2016). Mantenimiento preventivo y correctivo en equipos agrícolas. Editorial de Tecnología Agrícola.',
+          'García, T., & Rivas, L. (2016). <em>Mantenimiento preventivo y correctivo en equipos agrícolas.</em> Editorial de Tecnología Agrícola.',
         link: '',
       },
       {
         referencia:
-          'González, M. (2015). Lubricación y reducción de fricción en maquinaria de campo. Editorial Ingeniería Sostenible.',
+          'González, M. (2015). <em>Lubricación y reducción de fricción en maquinaria de campo.</em> Editorial Ingeniería Sostenible.',
         link: '',
       },
       {
@@ -61,7 +61,7 @@ export default {
       },
       {
         referencia:
-          'López, P., & Torres, F. (2020). Conceptos avanzados de mecánica aplicada en el sector agrícola. Ingeniería y Tecnología Agrícola.',
+          'López, P., & Torres, F. (2020). <em>Conceptos avanzados de mecánica aplicada en el sector agrícola.</em> Ingeniería y Tecnología Agrícola.',
         link: '',
       },
       {
@@ -72,33 +72,33 @@ export default {
       },
       {
         referencia:
-          'Martínez, J., & Díaz, C. (2019). Ajustes y tolerancias en maquinaria agrícola pesada. Ediciones Técnicas. ',
+          'Martínez, J., & Díaz, C. (2019). <em>Ajustes y tolerancias en maquinaria agrícola pesada.</em> Ediciones Técnicas. ',
         link: '',
       },
       {
         referencia:
-          'MindMachineTV [@MindMachineTV]. (n.d.). ¿Qué es un semiconductor? - una explicación sencilla. [Video]. Youtube. Recuperado el 10 de junio de 2025, de',
+          'MindMachineTV [@MindMachineTV]. (n.d.). <em>¿Qué es un semiconductor? - una explicación sencilla.</em> [Video]. Youtube. Recuperado el 10 de junio de 2025, de',
         link: 'https://www.youtube.com/watch?v=fFVU7-kfPe8',
       },
       {
         referencia:
-          'Pujols, E. G. (n.d.). Introducción a la electrónica digital. [Documento PDF]. Uoc.edu. Recuperado el 11 de junio de 2025, de',
+          'Pujols, E. G. (n.d.). <em>Introducción a la electrónica digital.</em> [Documento PDF]. Uoc.edu. Recuperado el 11 de junio de 2025, de',
         link:
           'https://openaccess.uoc.edu/server/api/core/bitstreams/b69fc326-23b8-45b2-beef-667508ce4b34/content',
       },
       {
         referencia:
-          'Ramírez, S. (2017). Transferencia de energía y sistemas de transmisión en maquinaria agrícola. Editorial Innovación en Agricultura.',
+          'Ramírez, S. (2017). <em>Transferencia de energía y sistemas de transmisión en maquinaria agrícola.</em> Editorial Innovación en Agricultura.',
         link: '',
       },
       {
         referencia:
-          'Salazar, J., & Pérez, M. (2014). Métodos de unión y ensamblaje en equipos agrícolas. Ediciones del Agro.',
+          'Salazar, J., & Pérez, M. (2014). <em>Métodos de unión y ensamblaje en equipos agrícolas.</em> Ediciones del Agro.',
         link: '',
       },
       {
         referencia:
-          'TE Ronde, J., Castillo, L. E., Cardona, A., & Vásquez Basto, R. (1978). Sembradora manual de grano grueso : manual de construcción. [Documento PDF].',
+          'TE Ronde, J., Castillo, L. E., Cardona, A., & Vásquez Basto, R. (1978). <em>Sembradora manual de grano grueso: manual de construcción.</em> [Documento PDF].',
         link: 'https://repositorio.sena.edu.co/handle/11404/4761',
       },
       {
@@ -109,17 +109,17 @@ export default {
       },
       {
         referencia:
-          'Smith, A., & Johnson, R. (2018). Dinámica y estática para maquinaria industrial y agrícola. Prensa de Ingeniería Aplicada',
+          'Smith, A., & Johnson, R. (2018). <em>Dinámica y estática para maquinaria industrial y agrícola.</em> Prensa de Ingeniería Aplicada',
         link: '',
       },
       {
         referencia:
-          'Tinkercad. (n.d.). Circuitos DC y AC: Simulador en línea. [Simulador en línea].',
+          'Tinkercad. (n.d.). Circuitos DC y AC: <em>Simulador en línea.</em> [Simulador en línea].',
         link: 'https://www.tinkercad.com/embed/g1Pvn5fI1mE',
       },
       {
         referencia:
-          'Vista de Evolución y utilidad del mecanizado CNC en el diseño industrial. [Documento PDF]. Journalingeniar.org. Recuperado el 11 de junio de 2025, de',
+          '<em>Vista de Evolución y utilidad del mecanizado CNC en el diseño industrial.</em> [Documento PDF]. Journalingeniar.org. Recuperado el 11 de junio de 2025, de',
         link:
           'https://www.journalingeniar.org/index.php/ingeniar/article/view/108/156',
       },
