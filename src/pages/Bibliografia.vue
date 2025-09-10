@@ -34,7 +34,7 @@ export default {
       },
       {
         referencia:
-          'Fernández, R., & García, M. (2021). <em>Mecánica y mantenimiento en maquinaria agrícola: Guía práctica para técnicos y agricultores.</em> Editorial Agrícola.',
+          'Fernández, R., & García, M. (2021). Mecánica y mantenimiento en maquinaria agrícola: Guía práctica para técnicos y agricultores. Editorial Agrícola.',
         link: '',
       },
       {
