@@ -44,7 +44,7 @@ export default {
       },
       {
         referencia:
-          'González, M. (2015). <em>Lubricación y reducción de fricción en maquinaria de campo.</em> Editorial Ingeniería Sostenible.',
+          'González, M. (2015). Lubricación y reducción de fricción en maquinaria de campo. Editorial Ingeniería Sostenible.',
         link: '',
       },
       {
@@ -52,6 +52,12 @@ export default {
           'Ieszaframagon.com. (n.d.). [Documento PDF]. Recuperado el 11 de junio de 2025, de',
         link:
           'https://www.ieszaframagon.com/files/recursos_files/Unidad-Dibujo-t%C3%A9cnico.pdf',
+      },
+      {
+        referencia:
+          'Ilo.org. (n.d.). [Documento PDF]. Recuperado el 11 de junio de 2025, de',
+        link:
+          'https://www.ilo.org/es/publications/big-data-y-ciencia-de-datos-conceptos-oportunidades-y-desafios',
       },
       {
         referencia:
@@ -66,13 +72,7 @@ export default {
       },
       {
         referencia:
-          'Maristas Huelva. (n.d.). Arduino: Libro kit básico. [Documento PDF].',
-        link:
-          'https://www.maristashuelva.es/webinfo/tecnologia/arduino/Libro_kit_Basico.pdf',
-      },
-      {
-        referencia:
-          'Martínez, J., & Díaz, C. (2019). <em>Ajustes y tolerancias en maquinaria agrícola pesada.</em> Ediciones Técnicas. ',
+          'Martínez, J., & Díaz, C. (2019). <em>Ajustes y tolerancias en maquinaria agrícola pesada.</em> Ediciones Técnicas.',
         link: '',
       },
       {
@@ -88,29 +88,29 @@ export default {
       },
       {
         referencia:
-          'Ramírez, S. (2017). <em>Transferencia de energía y sistemas de transmisión en maquinaria agrícola.</em> Editorial Innovación en Agricultura.',
+          'Ramírez, S. (2017). Transferencia de energía y sistemas de transmisión en maquinaria agrícola. Editorial Innovación en Agricultura.',
         link: '',
       },
       {
         referencia:
-          'Salazar, J., & Pérez, M. (2014). <em>Métodos de unión y ensamblaje en equipos agrícolas.</em> Ediciones del Agro.',
+          'Salazar, J., & Pérez, M. (2014). <em>Métodos de unión y ensamblaje en equipos agrícolas. Ediciones del Agro.</em>',
         link: '',
+      },
+      {
+        referencia:
+          'Smith, A., & Johnson, R. (2018). <em>Dinámica y estática para maquinaria industrial y agrícola.</em> Prensa de Ingeniería Aplicada. ',
+        link: '',
+      },
+      {
+        referencia:
+          '(S.f.). Candy-ho.com. Recuperado el 7 de septiembre de 2025, de',
+        link:
+          'https://candy-ho.com/Drivers/librodeproyectosdearduinostarterkit-151212174250.pdf?srsltid=AfmBOoqQ0zZm_YK3m_njhKi_E8eu9IwqcokHwmTnEl6-rSpkJnpvWPcq',
       },
       {
         referencia:
           'TE Ronde, J., Castillo, L. E., Cardona, A., & Vásquez Basto, R. (1978). <em>Sembradora manual de grano grueso: manual de construcción.</em> [Documento PDF].',
         link: 'https://repositorio.sena.edu.co/handle/11404/4761',
-      },
-      {
-        referencia:
-          'Ilo.org. (n.d.). [Documento PDF]. Recuperado el 11 de junio de 2025, de',
-        link:
-          'https://www.ilo.org/es/publications/big-data-y-ciencia-de-datos-conceptos-oportunidades-y-desafios',
-      },
-      {
-        referencia:
-          'Smith, A., & Johnson, R. (2018). <em>Dinámica y estática para maquinaria industrial y agrícola.</em> Prensa de Ingeniería Aplicada',
-        link: '',
       },
       {
         referencia:
