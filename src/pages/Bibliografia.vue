@@ -145,13 +145,12 @@ export default {
       return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
     },
     limpiarHTML(str) {
-      // Elimina cualquier etiqueta HTML para comparar solo texto plano,
-      // cualquier contenido entre paréntesis y específicamente (S.f.)
+      // Elimina cualquier etiqueta HTML para comparar solo texto plano
+      // y elimina solo los paréntesis conservando el contenido interior
       return str
         .replace(/<\/?[^>]+(>|$)/g, '') // quita etiquetas HTML
-        .replace(/\(S\.f\.\)\./gi, '') // quita específicamente (S.f.)
-        .replace(/\([^)]*\)/g, '') // quita paréntesis y su contenido
-        .replace(/^[\s.,;:¡!¿?'"-]+/, '') // quita signos de puntuación al inicio
+        .replace(/\(([^)]*)\)/g, '$1') // quita paréntesis pero conserva el texto dentro
+        .trim()
     },
   },
 }
